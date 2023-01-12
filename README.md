@@ -41,12 +41,15 @@ _____
 В данном проекте используем 2 таблицы , вторая специально для комментариев
 
 Первая таблица
+
 ![](https://raw.githubusercontent.com/EvgenySyromyatnikov/lab-2/e474e9725443beb23f7fe7103118164a3f3cb315/2023-01-12_19-22-55.png) 
 
- Вторая таблица  
+ Вторая таблица 
+ 
 ![](https://raw.githubusercontent.com/EvgenySyromyatnikov/lab-2/e474e9725443beb23f7fe7103118164a3f3cb315/2023-01-12_19-23-33.png)  
 
 Между таблицами создана следующая связь
+
 ![](https://raw.githubusercontent.com/EvgenySyromyatnikov/lab-2/e474e9725443beb23f7fe7103118164a3f3cb315/2023-01-12_19-23-53.png)  
 
 
